@@ -1,0 +1,16 @@
+[
+  {
+    "id": "pt.animecenterbr",
+    "icon": "icon.jpg",
+    "name": "Anime Center BR",
+    "version": "1.0.0",
+    "language": "pt"
+  },
+  {
+    "id": "pt.reaperscans",
+    "icon": "icon.jpg",
+    "name": "Reaper Scans Br",
+    "version": "1.0.0",
+    "language": "pt"
+  }
+]
